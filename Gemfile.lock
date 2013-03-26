@@ -1,8 +1,8 @@
 GIT
   remote: git@github.com:pirtlj/meta-engine.git
-  revision: 7fe1b73f842451d4f430bd3c760ddc01b86efe92
+  revision: 186df7e07c0f268c642d6fe28b71e979e7d82823
   specs:
-    meta-engine (0.0.2)
+    meta-engine (0.0.3)
       rails (~> 3.2.9)
 
 GEM
