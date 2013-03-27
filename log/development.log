@@ -250,3 +250,68 @@ Connecting to database specified by database.yml
   [1m[36m (0.0ms)[0m  [1mUPDATE "meta_engine_voxels" SET "y" = 0, "updated_at" = '2013-03-26 23:33:35.458000' WHERE "meta_engine_voxels"."id" = 1[0m
   [1m[35mMetaEngine::Voxel Load (1.0ms)[0m  SELECT "meta_engine_voxels".* FROM "meta_engine_voxels" WHERE "meta_engine_voxels"."id" = 1 LIMIT 1
   [1m[36m (1.0ms)[0m  [1mUPDATE "meta_engine_voxels" SET "x" = -3, "y" = -1, "updated_at" = '2013-03-26 23:33:50.474000' WHERE "meta_engine_voxels"."id" = 1[0m
+  [1m[35mMetaEngine::Voxel Load (1.0ms)[0m  SELECT "meta_engine_voxels".* FROM "meta_engine_voxels" WHERE "meta_engine_voxels"."id" = 1 LIMIT 1
+  [1m[36m (1.0ms)[0m  [1mUPDATE "meta_engine_voxels" SET "x" = -4, "y" = -2, "updated_at" = '2013-03-26 23:34:05.495000' WHERE "meta_engine_voxels"."id" = 1[0m
+  [1m[35mMetaEngine::Voxel Load (1.0ms)[0m  SELECT "meta_engine_voxels".* FROM "meta_engine_voxels" WHERE "meta_engine_voxels"."id" = 1 LIMIT 1
+  [1m[36m (1.0ms)[0m  [1mUPDATE "meta_engine_voxels" SET "y" = -1, "updated_at" = '2013-03-26 23:34:20.508000' WHERE "meta_engine_voxels"."id" = 1[0m
+  [1m[35mMetaEngine::Voxel Load (1.0ms)[0m  SELECT "meta_engine_voxels".* FROM "meta_engine_voxels" WHERE "meta_engine_voxels"."id" = 1 LIMIT 1
+  [1m[36m (1.0ms)[0m  [1mUPDATE "meta_engine_voxels" SET "x" = -3, "updated_at" = '2013-03-26 23:34:35.519000' WHERE "meta_engine_voxels"."id" = 1[0m
+  [1m[35mMetaEngine::Voxel Load (1.0ms)[0m  SELECT "meta_engine_voxels".* FROM "meta_engine_voxels" WHERE "meta_engine_voxels"."id" = 1 LIMIT 1
+  [1m[36m (1.0ms)[0m  [1mUPDATE "meta_engine_voxels" SET "x" = -2, "updated_at" = '2013-03-26 23:34:50.537000' WHERE "meta_engine_voxels"."id" = 1[0m
+  [1m[35mMetaEngine::Voxel Load (1.0ms)[0m  SELECT "meta_engine_voxels".* FROM "meta_engine_voxels" WHERE "meta_engine_voxels"."id" = 1 LIMIT 1
+  [1m[36m (1.0ms)[0m  [1mUPDATE "meta_engine_voxels" SET "x" = -3, "y" = -2, "updated_at" = '2013-03-26 23:35:05.556000' WHERE "meta_engine_voxels"."id" = 1[0m
+  [1m[35mMetaEngine::Voxel Load (1.0ms)[0m  SELECT "meta_engine_voxels".* FROM "meta_engine_voxels" WHERE "meta_engine_voxels"."id" = 1 LIMIT 1
+  [1m[36m (1.0ms)[0m  [1mUPDATE "meta_engine_voxels" SET "x" = -2, "updated_at" = '2013-03-26 23:35:20.577000' WHERE "meta_engine_voxels"."id" = 1[0m
+  [1m[35mMetaEngine::Voxel Load (0.0ms)[0m  SELECT "meta_engine_voxels".* FROM "meta_engine_voxels" WHERE "meta_engine_voxels"."id" = 1 LIMIT 1
+  [1m[36m (1.0ms)[0m  [1mUPDATE "meta_engine_voxels" SET "x" = -1, "updated_at" = '2013-03-26 23:35:35.589000' WHERE "meta_engine_voxels"."id" = 1[0m
+  [1m[35mMetaEngine::Voxel Load (1.0ms)[0m  SELECT "meta_engine_voxels".* FROM "meta_engine_voxels" WHERE "meta_engine_voxels"."id" = 1 LIMIT 1
+  [1m[36m (1.0ms)[0m  [1mUPDATE "meta_engine_voxels" SET "x" = 0, "y" = -3, "updated_at" = '2013-03-26 23:35:50.613000' WHERE "meta_engine_voxels"."id" = 1[0m
+  [1m[35mMetaEngine::Voxel Load (1.0ms)[0m  SELECT "meta_engine_voxels".* FROM "meta_engine_voxels" WHERE "meta_engine_voxels"."id" = 1 LIMIT 1
+  [1m[36m (5.0ms)[0m  [1mUPDATE "meta_engine_voxels" SET "x" = -1, "y" = -4, "updated_at" = '2013-03-26 23:36:05.625000' WHERE "meta_engine_voxels"."id" = 1[0m
+  [1m[35mMetaEngine::Voxel Load (1.0ms)[0m  SELECT "meta_engine_voxels".* FROM "meta_engine_voxels" WHERE "meta_engine_voxels"."id" = 1 LIMIT 1
+  [1m[36m (1.0ms)[0m  [1mUPDATE "meta_engine_voxels" SET "y" = -5, "updated_at" = '2013-03-26 23:36:20.637000' WHERE "meta_engine_voxels"."id" = 1[0m
+  [1m[35mMetaEngine::Voxel Load (1.0ms)[0m  SELECT "meta_engine_voxels".* FROM "meta_engine_voxels" WHERE "meta_engine_voxels"."id" = 1 LIMIT 1
+  [1m[36m (0.0ms)[0m  [1mUPDATE "meta_engine_voxels" SET "x" = 0, "y" = -4, "updated_at" = '2013-03-26 23:36:35.651000' WHERE "meta_engine_voxels"."id" = 1[0m
+  [1m[35mMetaEngine::Voxel Load (2.0ms)[0m  SELECT "meta_engine_voxels".* FROM "meta_engine_voxels" WHERE "meta_engine_voxels"."id" = 1 LIMIT 1
+  [1m[36m (2.0ms)[0m  [1mUPDATE "meta_engine_voxels" SET "x" = -1, "y" = -3, "updated_at" = '2013-03-26 23:36:50.678000' WHERE "meta_engine_voxels"."id" = 1[0m
+  [1m[35mMetaEngine::Voxel Load (1.0ms)[0m  SELECT "meta_engine_voxels".* FROM "meta_engine_voxels" WHERE "meta_engine_voxels"."id" = 1 LIMIT 1
+  [1m[36m (1.0ms)[0m  [1mUPDATE "meta_engine_voxels" SET "x" = -2, "updated_at" = '2013-03-26 23:37:05.695000' WHERE "meta_engine_voxels"."id" = 1[0m
+  [1m[35mMetaEngine::Voxel Load (0.0ms)[0m  SELECT "meta_engine_voxels".* FROM "meta_engine_voxels" WHERE "meta_engine_voxels"."id" = 1 LIMIT 1
+  [1m[36m (0.0ms)[0m  [1mUPDATE "meta_engine_voxels" SET "x" = -1, "y" = -4, "updated_at" = '2013-03-26 23:37:20.702000' WHERE "meta_engine_voxels"."id" = 1[0m
+  [1m[35mMetaEngine::Voxel Load (1.0ms)[0m  SELECT "meta_engine_voxels".* FROM "meta_engine_voxels" WHERE "meta_engine_voxels"."id" = 1 LIMIT 1
+  [1m[36m (1.0ms)[0m  [1mUPDATE "meta_engine_voxels" SET "y" = -3, "updated_at" = '2013-03-26 23:37:35.722000' WHERE "meta_engine_voxels"."id" = 1[0m
+  [1m[35mMetaEngine::Voxel Load (1.0ms)[0m  SELECT "meta_engine_voxels".* FROM "meta_engine_voxels" WHERE "meta_engine_voxels"."id" = 1 LIMIT 1
+  [1m[36m (1.0ms)[0m  [1mUPDATE "meta_engine_voxels" SET "x" = 0, "updated_at" = '2013-03-26 23:37:50.735000' WHERE "meta_engine_voxels"."id" = 1[0m
+  [1m[35mMetaEngine::Voxel Load (1.0ms)[0m  SELECT "meta_engine_voxels".* FROM "meta_engine_voxels" WHERE "meta_engine_voxels"."id" = 1 LIMIT 1
+  [1m[36m (0.0ms)[0m  [1mUPDATE "meta_engine_voxels" SET "y" = -4, "updated_at" = '2013-03-26 23:38:05.755000' WHERE "meta_engine_voxels"."id" = 1[0m
+  [1m[35mMetaEngine::Voxel Load (0.0ms)[0m  SELECT "meta_engine_voxels".* FROM "meta_engine_voxels" WHERE "meta_engine_voxels"."id" = 1 LIMIT 1
+  [1m[36m (101.0ms)[0m  [1mUPDATE "meta_engine_voxels" SET "x" = 1, "y" = -3, "updated_at" = '2013-03-26 23:38:20.768000' WHERE "meta_engine_voxels"."id" = 1[0m
+  [1m[35mMetaEngine::Voxel Load (0.0ms)[0m  SELECT "meta_engine_voxels".* FROM "meta_engine_voxels" WHERE "meta_engine_voxels"."id" = 1 LIMIT 1
+  [1m[36m (0.0ms)[0m  [1mUPDATE "meta_engine_voxels" SET "y" = -2, "updated_at" = '2013-03-26 23:38:35.783000' WHERE "meta_engine_voxels"."id" = 1[0m
+  [1m[35mMetaEngine::Voxel Load (1.0ms)[0m  SELECT "meta_engine_voxels".* FROM "meta_engine_voxels" WHERE "meta_engine_voxels"."id" = 1 LIMIT 1
+  [1m[36m (1.0ms)[0m  [1mUPDATE "meta_engine_voxels" SET "x" = 2, "y" = -3, "updated_at" = '2013-03-26 23:38:50.806000' WHERE "meta_engine_voxels"."id" = 1[0m
+  [1m[35mMetaEngine::Voxel Load (1.0ms)[0m  SELECT "meta_engine_voxels".* FROM "meta_engine_voxels" WHERE "meta_engine_voxels"."id" = 1 LIMIT 1
+  [1m[36m (1.0ms)[0m  [1mUPDATE "meta_engine_voxels" SET "y" = -4, "updated_at" = '2013-03-26 23:39:05.846000' WHERE "meta_engine_voxels"."id" = 1[0m
+  [1m[35mMetaEngine::Voxel Load (1.0ms)[0m  SELECT "meta_engine_voxels".* FROM "meta_engine_voxels" WHERE "meta_engine_voxels"."id" = 1 LIMIT 1
+  [1m[36m (1.0ms)[0m  [1mUPDATE "meta_engine_voxels" SET "y" = -5, "updated_at" = '2013-03-26 23:39:20.828000' WHERE "meta_engine_voxels"."id" = 1[0m
+  [1m[35mMetaEngine::Voxel Load (1.0ms)[0m  SELECT "meta_engine_voxels".* FROM "meta_engine_voxels" WHERE "meta_engine_voxels"."id" = 1 LIMIT 1
+  [1m[36m (1.0ms)[0m  [1mUPDATE "meta_engine_voxels" SET "y" = -4, "updated_at" = '2013-03-26 23:39:35.844000' WHERE "meta_engine_voxels"."id" = 1[0m
+  [1m[35mMetaEngine::Voxel Load (1.0ms)[0m  SELECT "meta_engine_voxels".* FROM "meta_engine_voxels" WHERE "meta_engine_voxels"."id" = 1 LIMIT 1
+  [1m[36mMetaEngine::Voxel Load (0.0ms)[0m  [1mSELECT "meta_engine_voxels".* FROM "meta_engine_voxels" WHERE "meta_engine_voxels"."id" = 1 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  UPDATE "meta_engine_voxels" SET "y" = -5, "updated_at" = '2013-03-26 23:40:05.874000' WHERE "meta_engine_voxels"."id" = 1
+  [1m[36mMetaEngine::Voxel Load (1.0ms)[0m  [1mSELECT "meta_engine_voxels".* FROM "meta_engine_voxels" WHERE "meta_engine_voxels"."id" = 1 LIMIT 1[0m
+  [1m[35m (1.0ms)[0m  UPDATE "meta_engine_voxels" SET "y" = -6, "updated_at" = '2013-03-26 23:40:20.891000' WHERE "meta_engine_voxels"."id" = 1
+  [1m[36mMetaEngine::Voxel Load (1.0ms)[0m  [1mSELECT "meta_engine_voxels".* FROM "meta_engine_voxels" WHERE "meta_engine_voxels"."id" = 1 LIMIT 1[0m
+  [1m[35m (1.0ms)[0m  UPDATE "meta_engine_voxels" SET "y" = -5, "updated_at" = '2013-03-26 23:40:35.905000' WHERE "meta_engine_voxels"."id" = 1
+  [1m[36mMetaEngine::Voxel Load (1.0ms)[0m  [1mSELECT "meta_engine_voxels".* FROM "meta_engine_voxels" WHERE "meta_engine_voxels"."id" = 1 LIMIT 1[0m
+  [1m[35m (1.0ms)[0m  UPDATE "meta_engine_voxels" SET "x" = 1, "y" = -6, "updated_at" = '2013-03-26 23:40:50.922000' WHERE "meta_engine_voxels"."id" = 1
+  [1m[36mMetaEngine::Voxel Load (1.0ms)[0m  [1mSELECT "meta_engine_voxels".* FROM "meta_engine_voxels" WHERE "meta_engine_voxels"."id" = 1 LIMIT 1[0m
+  [1m[35m (1.0ms)[0m  UPDATE "meta_engine_voxels" SET "x" = 2, "y" = -7, "updated_at" = '2013-03-26 23:41:05.937000' WHERE "meta_engine_voxels"."id" = 1
+  [1m[36mMetaEngine::Voxel Load (1.0ms)[0m  [1mSELECT "meta_engine_voxels".* FROM "meta_engine_voxels" WHERE "meta_engine_voxels"."id" = 1 LIMIT 1[0m
+  [1m[35m (1.0ms)[0m  UPDATE "meta_engine_voxels" SET "x" = 3, "y" = -8, "updated_at" = '2013-03-26 23:41:20.953000' WHERE "meta_engine_voxels"."id" = 1
+  [1m[36mMetaEngine::Voxel Load (1.0ms)[0m  [1mSELECT "meta_engine_voxels".* FROM "meta_engine_voxels" WHERE "meta_engine_voxels"."id" = 1 LIMIT 1[0m
+  [1m[35m (1.0ms)[0m  UPDATE "meta_engine_voxels" SET "x" = 2, "y" = -9, "updated_at" = '2013-03-26 23:41:35.970000' WHERE "meta_engine_voxels"."id" = 1
+  [1m[36mMetaEngine::Voxel Load (0.0ms)[0m  [1mSELECT "meta_engine_voxels".* FROM "meta_engine_voxels" WHERE "meta_engine_voxels"."id" = 1 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  UPDATE "meta_engine_voxels" SET "x" = 1, "updated_at" = '2013-03-26 23:41:50.985000' WHERE "meta_engine_voxels"."id" = 1
+  [1m[36mMetaEngine::Voxel Load (0.0ms)[0m  [1mSELECT "meta_engine_voxels".* FROM "meta_engine_voxels" WHERE "meta_engine_voxels"."id" = 1 LIMIT 1[0m
+  [1m[35m (1.0ms)[0m  UPDATE "meta_engine_voxels" SET "x" = 0, "updated_at" = '2013-03-26 23:42:05.999000' WHERE "meta_engine_voxels"."id" = 1

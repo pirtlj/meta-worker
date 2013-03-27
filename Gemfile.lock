@@ -1,5 +1,6 @@
-PATH
-  remote: ../meta-engine
+GIT
+  remote: git@github.com:pirtlj/meta-engine.git
+  revision: 186df7e07c0f268c642d6fe28b71e979e7d82823
   specs:
     meta-engine (0.0.3)
       rails (~> 3.2.9)
