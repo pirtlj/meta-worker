@@ -1,8 +1,8 @@
 GIT
   remote: git@github.com:pirtlj/meta-engine.git
-  revision: 186df7e07c0f268c642d6fe28b71e979e7d82823
+  revision: 332f6e2024e52c3b0848050a25ef08899585b1e8
   specs:
-    meta-engine (0.0.3)
+    meta-engine (0.0.4)
       rails (~> 3.2.9)
 
 GEM
@@ -138,7 +138,7 @@ DEPENDENCIES
   activerecord-jdbcpostgresql-adapter
   coffee-rails (~> 3.2.1)
   jquery-rails
-  meta-engine!
+  meta-engine (= 0.0.4)!
   rails (= 3.2.9)
   sass-rails (~> 3.2.3)
   sidekiq

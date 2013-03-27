@@ -6,7 +6,7 @@ gem "therubyrhino", "~> 2.0.2"
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 
-gem 'meta-engine', git: "git@github.com:pirtlj/meta-engine.git"
+gem 'meta-engine', '0.0.4', git: "git@github.com:pirtlj/meta-engine.git"
 #gem 'meta-engine', path: "../meta-engine"
 gem 'activerecord-jdbcpostgresql-adapter'
 gem 'sidekiq'
