@@ -3,8 +3,8 @@
 #   sidekiq -C config.yml
 ---
 :verbose: true
-:pidfile: /var/tmp/pids/sidekiq.pid
+#:pidfile: /var/tmp/pids/sidekiq.pid
 
 :concurrency:  30
 :logfile: ./log/sidekiq.log
-:deamonize: true
+#:deamonize: true
